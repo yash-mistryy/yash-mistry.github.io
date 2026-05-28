@@ -7,7 +7,7 @@ I specialize in bridging physical mechanical dynamics and deterministic control 
 
 ---
 
-## 🚀 Engineering Case Studies
+## 🚀 Engineering Projects
 
 Explore my detailed project reports and system validations below:
 
